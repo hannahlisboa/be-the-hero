@@ -1,0 +1,5 @@
+node_modules
+
+.vscode/settings.json
+backend/.vscode/settings.json
+frontend/.vscode/settings.json
